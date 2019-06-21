@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns="http://java.sun.com/xml/ns/javaee"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.5"
+	xsi:schemaLocation="http://java.sun.com/xml/ns/javaee   http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd">
+	
+	<welcome-file-list>
+		<welcome-file>/qiantai/default.jsp</welcome-file>
+	</welcome-file-list>
+	
+	
+	<servlet>
+		<servlet-name>dwr-invoker</servlet-name>
+		<servlet-class>
+			org.directwebremoting.servlet.DwrServlet
+		</servlet-class>
+		<init-param>
+			<param-name>debug</param-name>
+			<param-value>true</param-value>
+		</init-param>
+		<init-param>
+			<param-name>activeReverseAjaxEnabled</param-name>
+			<param-value>true</param-value>
+		</init-param>
+		<init-param>
+			<param-name>
+				initApplicationScopeCreatorsAtStartup
+			</param-name>
+			<param-value>true</param-value>
+		</init-param>
+		<init-param>
+			<param-name>maxWaitAfterWrite</param-name>
+			<param-value>500</param-value>
+		</init-param>
+		<init-param>
+    <param-name>crossDomainSessionSecurity</param-name>
+    <param-value>false</param-value>
+   </init-param>
+		<load-on-startup>1</load-on-startup>
+	</servlet>
+
+	<servlet-mapping>
+		<servlet-name>dwr-invoker</servlet-name>
+		<url-pattern>/dwr/*</url-pattern>
+	</servlet-mapping>
+
+
+
+	<filter>
+		<filter-name>SetChartEncoding</filter-name>
+		<filter-class>util.EncodingFilter</filter-class>
+		<init-param>
+			<param-name>encoding</param-name>
+			<param-value>UTF-8</param-value>
+		</init-param>
+	</filter>
+	<filter-mapping>
+		<filter-name>SetChartEncoding</filter-name>
+		<url-pattern>/*</url-pattern>
+	</filter-mapping>
+	
+	
+	
+	<servlet>
+		<servlet-name>catelog</servlet-name>
+		<servlet-class>action.catelog_servlet</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>catelog</servlet-name>
+		<url-pattern>/catelog</url-pattern>
+	</servlet-mapping>
+	
+	
+	
+	<servlet>
+		<servlet-name>renwu</servlet-name>
+		<servlet-class>action.renwu_servlet</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>renwu</servlet-name>
+		<url-pattern>/renwu</url-pattern>
+	</servlet-mapping>
+	
+	
+	
+	<servlet>
+		<servlet-name>user</servlet-name>
+		<servlet-class>action.user_servlet</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>user</servlet-name>
+		<url-pattern>/user</url-pattern>
+	</servlet-mapping>
+	
+	
+	
+	
+	<servlet>
+		<servlet-name>index</servlet-name>
+		<servlet-class>action.index_servlet</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>index</servlet-name>
+		<url-pattern>/index</url-pattern>
+	</servlet-mapping>
+	
+	
+	
+	
+	<servlet>
+		<servlet-name>gonggao</servlet-name>
+		<servlet-class>action.gonggao_servlet</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>gonggao</servlet-name>
+		<url-pattern>/gonggao</url-pattern>
+	</servlet-mapping>
+	
+	
+	
+	<servlet>
+		<servlet-name>xinwen</servlet-name>
+		<servlet-class>action.xinwen_servlet</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>xinwen</servlet-name>
+		<url-pattern>/xinwen</url-pattern>
+	</servlet-mapping>
+	
+	
+	
+	
+</web-app>
+
