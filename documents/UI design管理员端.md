@@ -1,0 +1,14 @@
+[https://lanhuapp.com/url/zZHwa-B9wqV](https://lanhuapp.com/url/zZHwa-B9wqV)
+
+可在该链接查看到设计图及标注
+![图片](https://uploader.shimo.im/f/Drgdks6blcId34uo.png!thumbnail)
+
+
+---
+
+### 任务管理
+![图片](https://uploader.shimo.im/f/polrvB5WSAUdWJp4.png!thumbnail)
+### 用户管理
+![图片](https://uploader.shimo.im/f/Nf406RvZaD0o1Hnb.png!thumbnail)
+### 用户详情
+![图片](https://uploader.shimo.im/f/8ohZSF5Euios7aq1.png!thumbnail)
