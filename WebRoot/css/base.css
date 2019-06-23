@@ -1,14 +1,14 @@
 * {
 	font-size: 12px;
-	font-family: "ËÎÌå";
+	font-family: "å®‹ä½“";
 }
-*{ font-family:Microsoft Yahei; } /* ËùÓĞ×ÖÌåÍ³Í³µÄÊÂÎ¢ÈíÑÅºÚ */ 
+*{ font-family:Microsoft Yahei; } /* æ‰€æœ‰å­—ä½“ç»Ÿç»Ÿçš„äº‹å¾®è½¯é›…é»‘ */ 
 td { line-height: 1.5; }
 
 body {
   font-size: 12px;
   line-height: 1.5;
-  font-family: "ËÎÌå";
+  font-family: "å®‹ä½“";
 }
 
 form,h1,h2,h3,ul,ol,div{	margin: 0; padding:0;}
@@ -34,9 +34,9 @@ h1 { color:#171B16; font-size:130%; font-weight:bold; }
 h2 { color:#171B16; font-size:115%; font-weight:bold; }
 h3 { color:#171B16; font-size:100%; font-weight:bold;}
 
-a:link { font-size: 9pt; color: #000000; text-decoration: none; font-family: ""ËÎÌå""; }
-a:visited{ font-size: 9pt; color: #000000; text-decoration: none; font-family: ""ËÎÌå""; }
-a:hover {color: red; font-family: ""ËÎÌå"";}
+a:link { font-size: 9pt; color: #000000; text-decoration: none; font-family: ""å®‹ä½“""; }
+a:visited{ font-size: 9pt; color: #000000; text-decoration: none; font-family: ""å®‹ä½“""; }
+a:hover {color: red; font-family: ""å®‹ä½“"";}
 a img { border-style:none; }
 
 b a {
@@ -286,3 +286,4 @@ border:1px solid #ffffff;
 	background:#F9FFE6;
 	padding:6px;
 }
+
