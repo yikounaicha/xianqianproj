@@ -31,7 +31,7 @@
 
 
 ### 任务详情页
-![图片](https://uploader.shimo.im/f/mpveOc7biTEyvy2Z.png!thumbnail)
+![图片](https://img-blog.csdnimg.cn/20190623173546607.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L01hZGVpcmE=,size_16,color_FFFFFF,t_70)
 
 ### 新建任务
 ![图片](https://uploader.shimo.im/f/VL5O2mi2qYI78zKF.png!thumbnail)
