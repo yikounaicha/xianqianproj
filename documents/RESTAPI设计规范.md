@@ -82,12 +82,12 @@ http://api.user.com/schools/grades/classes/boys?page=1&page-size=10
 ## 返回状态码推荐标准HTTP状态码
 有很多服务器将返回状态码一直设为200，然后在返回body里面自定义一些状态码来表示服务器返回结果的状态码。由于rest api是直接使用的HTTP协议，所以它的状态码也要尽量使用HTTP协议的状态码。
 
-200 OK 服务器返回用户请求的数据，该操作是幂等的
-201 CREATED 新建或者修改数据成功
-204 NOT CONTENT 删除数据成功
-400 BAD REQUEST 用户发出的请求有问题，该操作是幂等的
-401 Unauthoried 表示用户没有认证，无法进行操作
-403 Forbidden 用户访问是被禁止的
-422 Unprocesable Entity 当创建一个对象时，发生一个验证错误
-500 INTERNAL SERVER ERROR 服务器内部错误，用户将无法判断发出的请求是否成功
+200 OK 服务器返回用户请求的数据，该操作是幂等的<br/>
+201 CREATED 新建或者修改数据成功<br/>
+204 NOT CONTENT 删除数据成功<br/>
+400 BAD REQUEST 用户发出的请求有问题，该操作是幂等的<br/>
+401 Unauthoried 表示用户没有认证，无法进行操作<br/>
+403 Forbidden 用户访问是被禁止的<br/>
+422 Unprocesable Entity 当创建一个对象时，发生一个验证错误<br/>
+500 INTERNAL SERVER ERROR 服务器内部错误，用户将无法判断发出的请求是否成功<br/>
 503 Service Unavailable 服务不可用状态，多半是因为服务器问题，例如CPU占用率大，等等
