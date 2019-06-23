@@ -3,7 +3,6 @@
  * Copyright (C) 2003-2008 Frederico Caldeira Knabben
  *
  * == BEGIN LICENSE ==
- *
  * Licensed under the terms of any of the following licenses at your
  * choice:
  *
