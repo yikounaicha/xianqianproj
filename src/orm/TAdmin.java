@@ -1,5 +1,6 @@
 package orm;
 
+
 public class TAdmin
 {
 	private int userId;
