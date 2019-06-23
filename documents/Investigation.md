@@ -44,7 +44,7 @@
 
 ![码市](https://github.com/yikounaicha/xianqianproj/blob/master/documents/%E5%88%86%E6%9E%90%E5%9B%BE%E7%89%87/%E7%A0%81%E5%B8%82.jpg "码市")
 
-## 交互体验与视觉风格
+## 交互体验与视觉风格(图片见附录)
 
 ### 猪八戒网
 
@@ -68,3 +68,12 @@
 ## 总结
 猪八戒网相较于码市和程序员客栈提供的服务最为多样全面，但也因为种类过多使得用户在寻找针对性的项目时会需要花费更多时间，另外两个网站的针对性更强
 目前市场上存在的众包项目更多的是企业针对大型项目所开展的，我们的项目特点在于针对大学生这一新兴市场，管理校园任务，它属于以运营为中心的服务软件，也可以理解为面向大学生的专业“众包”系统，与其他已有项目立足点不同，目前市场还很大，可行性很高
+
+## 附录
+猪八戒网
+![猪八戒1](https://github.com/yikounaicha/xianqianproj/blob/master/documents/%E5%88%86%E6%9E%90%E5%9B%BE%E7%89%87/guangzhou.zbj.com_.png"猪八戒1")
+程序员客栈
+![程序员客栈1](https://github.com/yikounaicha/xianqianproj/blob/master/documents/%E5%88%86%E6%9E%90%E5%9B%BE%E7%89%87/www.proginn.com_.png "程序员客栈1")
+码市
+![码市1](
+https://github.com/yikounaicha/xianqianproj/blob/master/documents/%E5%88%86%E6%9E%90%E5%9B%BE%E7%89%87/codemart.com_.png"码市1")
