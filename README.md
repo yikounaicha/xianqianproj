@@ -4,8 +4,8 @@
 4. [Vision（项目愿景）](https://github.com/yikounaicha/xianqianproj/blob/master/documents/Vision.md)
 5. [Product Backlog （产品特性库）](https://github.com/yikounaicha/xianqianproj/blob/master/documents/Product%20Backlog.md)
 6. Requirement specification（需求规格说明书）
-- 6.1 [Usecase Diagram and UML Activity Diagram（用例图，业务过程/多泳道图）](https://github.com/yikounaicha/xianqianproj/blob/master/documents/Usecase%20Diagram%20.md)
-- 6.2 [Use Cases（用例+活动图）](https://github.com/yikounaicha/xianqianproj/blob/master/documents/Usecase%20Diagram.md)
+- 6.1 [Usecase Diagram and UML Activity Diagram（用例图，业务过程/多泳道图）](https://github.com/yikounaicha/xianqianproj/blob/master/documents/Usecase%20Diagram.md)
+- 6.2 [Use Cases（用例+活动图）](https://github.com/yikounaicha/xianqianproj/blob/master/documents/Use%20Cases.md)
 - 6.3 [Domian Models（领域模型）](https://github.com/yikounaicha/xianqianproj/blob/master/documents/Domain%20Models.md)
 - 6.4 [State Models（状态模型）](https://github.com/yikounaicha/xianqianproj/blob/master/documents/State%20Models.md)
 - 6.5 [System Sequence Diagrams（功能模型）](https://github.com/yikounaicha/xianqianproj/blob/master/documents/State%20Models.md)
