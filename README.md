@@ -20,6 +20,7 @@
 8. 生产规范与指南
 - 8.1 [代码规范](https://github.com/yikounaicha/xianqianproj/blob/master/documents/%E4%BB%A3%E7%A0%81%E8%A7%84%E8%8C%83.md)
 - 8.2 [架构设计、详细设计（BCE方法）到应用程序框架映射指南](https://github.com/yikounaicha/xianqianproj/blob/master/documents/BCE.md)
+- 8.3 [安装部署说明](https://github.com/yikounaicha/xianqianproj/blob/master/documents/%E5%AE%89%E8%A3%85%E9%83%A8%E7%BD%B2%E8%AF%B4%E6%98%8E.md)
 
 9. [成品展示](https://github.com/yikounaicha/xianqianproj/blob/master/documents/%E6%88%90%E5%93%81%E5%B1%95%E7%A4%BA.md)
 
