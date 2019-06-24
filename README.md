@@ -19,8 +19,7 @@
 
 8. 生产规范与指南
 - 8.1 [代码规范](https://github.com/yikounaicha/xianqianproj/blob/master/documents/%E4%BB%A3%E7%A0%81%E8%A7%84%E8%8C%83.md)
-- 8.2 [REST API 设计规范](https://github.com/yikounaicha/xianqianproj/blob/master/documents/RESTAPI%E8%AE%BE%E8%AE%A1%E8%A7%84%E8%8C%83.md)
-- 8.3 [架构设计、详细设计（BCE方法）到应用程序框架映射指南](https://github.com/yikounaicha/xianqianproj/blob/master/documents/BCE.md)
+- 8.2 [架构设计、详细设计（BCE方法）到应用程序框架映射指南](https://github.com/yikounaicha/xianqianproj/blob/master/documents/BCE.md)
 
 9. [成品展示](https://github.com/yikounaicha/xianqianproj/blob/master/documents/%E6%88%90%E5%93%81%E5%B1%95%E7%A4%BA.md)
 
