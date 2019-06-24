@@ -24,6 +24,11 @@
 ## Git统计报告
 ![报告](https://img-blog.csdnimg.cn/20190623233859559.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3RyYWN5X2Y=,size_16,color_FFFFFF,t_70)
 
+## 个人博客
+[JSP学习心得](https://github.com/yikounaicha/xianqianproj/blob/master/documents/Tech%5CWork%20Report/16340059-JSP%E5%AD%A6%E4%B9%A0%E5%BF%83%E5%BE%97.md "JSP学习心得")
+
+[竞品分析思路](https://github.com/yikounaicha/xianqianproj/blob/master/documents/Tech%5CWork%20Report/16340059-%E7%AB%9E%E5%93%81%E5%88%86%E6%9E%90%E6%80%9D%E8%B7%AF.md "竞品分析思路")
+
 ## 鸣谢
 非常感谢一起合作的三位小伙伴教会了我很多
 
