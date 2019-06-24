@@ -6,9 +6,9 @@
 6. Requirement specification（需求规格说明书）
 - 6.1 [Usecase Diagram and UML Activity Diagram（用例图，业务过程/多泳道图）](https://github.com/yikounaicha/xianqianproj/blob/master/documents/Usecase%20Diagram%20.md)
 - 6.2 [Use Cases（用例+活动图）](https://github.com/yikounaicha/xianqianproj/blob/master/documents/Use%20Cases.md)
-- 6.3 [Domian Models（领域模型）](d)
+- 6.3 [Domian Models（领域模型）](https://github.com/yikounaicha/xianqianproj/blob/master/documents/Domain%20Models.md)
 - 6.4 [State Models（状态模型）](https://github.com/yikounaicha/xianqianproj/blob/master/documents/State%20Models.md)
-- 6.5 [System Sequence Diagrams（功能模型）](d)
+- 6.5 [System Sequence Diagrams（功能模型）](x)
 - 6.6 [Supplementary Requirements（补充需求）](https://github.com/yikounaicha/xianqianproj/blob/master/documents/Supplementary%20Requirements.md)
 
 7. Design（设计说明书）
