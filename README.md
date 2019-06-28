@@ -1,4 +1,4 @@
-0.[软件设计综合实验要求Check List](https://github.com/yikounaicha/xianqianproj/blob/master/%E8%BD%AF%E4%BB%B6%E8%AE%BE%E8%AE%A1%E7%BB%BC%E5%90%88%E5%AE%9E%E9%AA%8C%E8%A6%81%E6%B1%82Check%20List.md)
+0. [软件设计综合实验要求Check List](https://github.com/yikounaicha/xianqianproj/blob/master/%E8%BD%AF%E4%BB%B6%E8%AE%BE%E8%AE%A1%E7%BB%BC%E5%90%88%E5%AE%9E%E9%AA%8C%E8%A6%81%E6%B1%82Check%20List.md)
 1. [About（项目概况）](https://github.com/yikounaicha/xianqianproj/blob/master/documents/About.md)
 2. [Team profile（团队组建与分工）](https://github.com/yikounaicha/xianqianproj/blob/master/documents/Team%20Profile.md)
 3. [Investigation（项目前期调研/竞品分析）](https://github.com/yikounaicha/xianqianproj/blob/master/documents/Investigation.md)
