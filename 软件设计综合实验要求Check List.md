@@ -12,4 +12,4 @@
 
 - 《小组分工与贡献率说明》
 ![表3](https://img-blog.csdnimg.cn/2019062323153359.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L01hZGVpcmE=,size_16,color_FFFFFF,t_70)
-[表2](https://github.com/yikounaicha/xianqianproj/blob/master/documents/Team%20Profile.md)
+[小组分工](https://github.com/yikounaicha/xianqianproj/blob/master/documents/Team%20Profile.md)
